@@ -7,6 +7,9 @@ You can also use Hashed.app to verify the hash of a file you have downloaded. Ty
 
 Hashed.app does not hash folders or directories, only individual files. If you want to hash a directory, zip the entire directory and hash the zip file.
 
+
+![alt text](https://redlinetech.files.wordpress.com/2017/05/hashed_01.png?w=625)
+
 ---
 #### Hashes for "Hashed.app.zip":
 MD5:
