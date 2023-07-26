@@ -1,7 +1,7 @@
 ## Generate or Compare Files Hashes
 
 #### Usage:
-Use Hashed.app to generate a file hash for MD5 
+Use Hashed.app to generate a file hash for MD5 or SHA256
 
 You can also use Hashed.app to verify the hash of a file you have downloaded. Type or paste the hash into the "Compare hashes" field, then use the "File To Compare" field to select the file that was downloaded.
 
